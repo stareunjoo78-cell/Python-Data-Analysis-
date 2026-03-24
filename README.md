@@ -1,4 +1,4 @@
-# Python-Data-Analysis-
+# Python-Data-Analysis- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## 01주. 분석 환경 구축, Anaconda 설치, Jupyter Lab 활용법 및 가상환경 설정
 ## 02주. Numpy 기초, 다차원 배열(ndarray) 생성, 연산 및 인덱싱/슬라이싱
