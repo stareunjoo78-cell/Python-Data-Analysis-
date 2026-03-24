@@ -17,6 +17,6 @@
 ## 15주. 기말고사,(최종 프로젝트 결과물 발표 및 소스코드 제출)
 
 ## Tech Stack
-- Language: Python 3.12  
+- Language: Python 3.11  
 - Libraries: Pandas, Numpy, Matplotlib, Seaborn, Openpyxl  
 - Tool: Jupyter Lab / Notebook, VS Code  
